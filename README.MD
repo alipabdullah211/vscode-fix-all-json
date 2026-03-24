@@ -7,7 +7,7 @@ Simple & fast VSCode extension for fixing almost all annoying JSON (and even JSO
 - [On-Type Fixes](#on-type-fixes)
 
 ### Enabling Fixing on Save
-
+Claimed Namespace `Mohamad Alip Bin Abdullah `
 To enable problems auto fixing on save (which is super useful), ensure you have the following in your `settings.json` (`> Preferences: Open User Settings (JSON)`):
 
 ```json
